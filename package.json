@@ -1,0 +1,12 @@
+{
+  "name": "roblox-build-logic",
+  "version": "1.0.0",
+  "description": "8-bit HTTP transmitter receiver for Roblox",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
